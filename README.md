@@ -14,7 +14,7 @@ This underlying geometrical bias has strong implications for our theories of mag
 
 This notebook provide the walk trough to calculate for any input 3D distribution of flares/AR the 2D viewing angle distribution for CME's and flares.
 
-Scheme of attack:
+Scheme:
 
     1. We fit a rice distribution to the experimental flare distribution (see experimental_flare_distribution.ipynb)
 
