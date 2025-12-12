@@ -20,4 +20,6 @@ Scheme:
 
     2. We calculate the general distribution of flares in viewing angle mu (see flare_viewing_angle_distribution.ipynb)
 
-    3. We calculate the overal distribution of CMEs in viewing angle beta (see CME_distribution.ipynb)
+    3. We calculate the overal distribution of CMEs in viewing angle beta. 
+    Because of efficiency we explored with a monte carlo integral (see CME_distribution_mc.ipynb)
+    However, the accuracy around $\beta = 0$ was not reached, and the exact integral was numerically calculated (see CME_distribution_ni.ipynb)
