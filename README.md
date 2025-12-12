@@ -2,7 +2,7 @@
 
 This notebook accompagnied the paper "From sphere to disk
 Effects of spherical geometry on coronal mass ejection detection" by 
-A.G.M. Pietrow1 , M. De Wilde2 , and et al. 
+A.G.M. Pietrow1, M. De Wilde , and et al. 
 
 Coronal Mass Ejections expel large quantities of charged plasma into space.
 High resolution solar images revealed many CMEs that create geomagnetic storms.
