@@ -1,4 +1,4 @@
-# CME distribution toy model
+# CME distribution model
 
 This notebook accompagnied the paper "From sphere to disk
 Effects of spherical geometry on coronal mass ejection detection" by 
