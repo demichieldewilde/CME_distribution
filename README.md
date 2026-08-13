@@ -1,8 +1,9 @@
 # CME distribution model
 
-This notebook accompagnied the paper "From sphere to disk
-Effects of spherical geometry on coronal mass ejection detection" by 
-A.G.M. Pietrow1, M. De Wilde , and et al. 
+This notebook accompagnied the paper "Geometric suppression of stellar CME Doppler
+signatures" by 
+A.G.M. Pietrow, M. De Wilde, M. Druett, H. Eklund,
+J. D. Alvarado-Gomez, V. Fedun. 
 
 Coronal Mass Ejections expel large quantities of charged plasma into space.
 High resolution solar images revealed many CMEs that create geomagnetic storms.
