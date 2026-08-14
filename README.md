@@ -60,7 +60,7 @@ Beyond the seven notebooks above:
   (1874-2013, one file per year) used to fit the active-region latitude distribution in
   `experimental_flare_distribution.ipynb`.
 - `Figures/` — notebooks used to produce the figures in the paper (`coordinateplot.ipynb` for the
-  coordinate-system schematic, `Figures_CME_distribution_AND_bands.ipynb` for the CME-distribution plots),
+  coordinate-system schematic, `Band_figures.ipynb` for the solar band plots),
   plus the exported PDFs.
 
 ## Notation
