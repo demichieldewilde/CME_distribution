@@ -47,6 +47,8 @@ file there to force a recompute.
 
     8. One of the most studied stars concerning CMEs is EK Draconis, which counted 2 CMEs associated to 11 flares. We calculated the expected percentage of captured CME per flare our model predict for the star EK Draconis (See EK_Draconis_CME_observation_ratio.ipynb). 
 
+    9. We investigated the effect of Spörer's law (equatortowards migration of AR) over the solar cycle on the change in distribution for the sun. This was done in flare_latitude_solar_cycle_fourier.ipynb.
+
 The important take-away, is that given a known distribution of active regions/flares and the orientation of the star, this codes gives a quick calculation of the distribution of expected flares for different redshifts. However, when averaged over orientation of the rotation axis of the star a sine distribution is obviously the correct mean.
 
 ## Repository layout
